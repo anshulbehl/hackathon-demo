@@ -7,7 +7,7 @@
         token: "{{ token }}"
         msg: |
             ```
-            Hello World!!
+            {{ message }}
             ```
         channel: '#ansiblefest-demo'
         color: good
